@@ -1,5 +1,5 @@
 <h1 align="center">Heyho 👋, we are Winged-Development</h1>
-<h3 align="center">We are working on different kind of ideads and experimenting with some thoughts.</h3>
+<h3 align="center">We are working on different kinds of ideads and experimenting with some thoughts.</h3>
 
 - ⚡ Fun fact **We are non-Profit**
 
